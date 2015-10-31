@@ -15,3 +15,4 @@ A jQuery plugin to display a character counter next to an input or textarea.
   ```
     and that's it.
 # Options
+See the example.html file for more advanced options.
